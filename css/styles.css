@@ -35,7 +35,7 @@ h3 {
 }
 
 a {
-	color: #11999E;
+	color: #FFFFFF;
 	font-family: 'Montserrat', sans-serif;
 	margin: 10px 20px;
 	text-decoration: none;
@@ -53,6 +53,7 @@ p {
 	width: 50%;
 	margin: 100px auto;
 	text-align: left;
+    padding-top: 50px;
 }
 
 .top-container {
@@ -68,6 +69,7 @@ p {
 .bottom-container {
 	margin: 0;
 	background-color: #66BFBF;
+    color: #FFFFFF;
 	padding: 50px 0 20px;
 }
 
